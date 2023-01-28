@@ -1,6 +1,7 @@
 # Scroll to Top on Navigate for React Router
 
 Creates automatic scroll to top behaviour when the route changes. The package also preserves previous pages' sroll postion upon navigating back with the Back button.
+
 Works with the latest version of [React Router](https://reactrouter.com/en/main)
 
 ## Install
