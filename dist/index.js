@@ -1,2 +1,3 @@
 import ScrollToTop from './scrollToTop';
-export default ScrollToTop;
+import ScrollToTopWrapper from './scrollToTopWrapper';
+export { ScrollToTop, ScrollToTopWrapper };
