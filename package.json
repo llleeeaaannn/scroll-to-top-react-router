@@ -1,9 +1,14 @@
 {
   "name": "scroll-to-top-react-router",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "author": "Frank Pierce <frank.pierceee@gmail.com> (https://www.frankpierce.me)",
   "description": "An NPM package for React apps using React Router DOM which scrolls to the top of a new page upon navigation while retaining previous page scroll location upon using Back or Forward buttons.",
-  "keywords": ["React", "React Router", "Scroll", "Top"],
+  "keywords": [
+    "React",
+    "React Router",
+    "Scroll",
+    "Top"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.js",
   "homepage": "https://github.com/llleeeaaannn/scroll-to-top-react-router",
