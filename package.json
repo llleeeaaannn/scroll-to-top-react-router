@@ -1,6 +1,6 @@
 {
   "name": "scroll-to-top-react-router",
-  "version": "1.7.0",
+  "version": "1.7.1",
   "author": "Frank Pierce <frank.pierceee@gmail.com> (https://www.frankpierce.me)",
   "description": "Scroll to top on navigate for React Router DOM while maintaining scroll for previous pages on use of Back button",
   "keywords": [
