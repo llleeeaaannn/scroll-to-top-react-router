@@ -9,10 +9,10 @@ Works with the latest version of [React Router](https://reactrouter.com/en/main)
 npm install scroll-to-top-react-router
 ```
 
-## Import 
+## Import
 
 ```js
-import ScrollToTop from 'scroll-to-top-react-router';
+import ScrollToTop from 'scroll-to-top-react-router'
 ```
 
 ## Usage
