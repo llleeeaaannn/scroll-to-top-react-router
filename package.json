@@ -1,7 +1,17 @@
 {
   "name": "scroll-to-top-react-router",
   "version": "1.0.0",
+  "author": "Frank Pierce <frank.pierceee@gmail.com> (https://www.frankpierce.me)",
+  "description": "",
+  "keywords": "",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "homepage": "https://github.com/llleeeaaannn/scroll-to-top-react-router",
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/llleeeaaannn/scroll-to-top-react-router"
+  },
   "babel": {
     "presets": ["@babel/preset-react"]
   },
@@ -20,7 +30,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "publish:npm": "rm -rf dist && mkdir dist &&  babel src/lib -d dist --copy-files",
+    "publish:npm": "rm -rf dist && mkdir dist &&  babel src/lib -d dist --copy-files"
   },
   "eslintConfig": {
     "extends": [
